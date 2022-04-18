@@ -71,7 +71,7 @@ function renderHTML(data) {
           item.classList.add('width-anim');
           setTimeout(() => {
             item.remove();
-          }, 750)
+          }, 700)
         }
       })
     })
